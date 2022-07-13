@@ -1,5 +1,6 @@
 # MSDS460SP2022_Monte_Carlo
 
+
 To complete this assignment, you need to respond to these five parts and questions:
 
 1. Construct a flowchart to represent the rainwater harvesting/recapture system. Your drawing should show the process from inputs to outputs. Design a model to represent monthly rainfall. The model should consider the observed monthly rainfall distribution and what you know about water consumption. Account for the dimensions of the storage tank. Consider what happens when the tank overflows. Does your model capture the essential aspects of the problem? How do you see this model being implemented in a Monte Carlo simulation? 
